@@ -14,3 +14,5 @@ Dynamic Resonance AI (DRAI): A theoretical framework for modeling emergent cogni
 Anchor Alignment Metric (AAM) and Resonance Provenance Index (RPI): Symbolic fidelity tracking tools
 
 AI-Oriented Symbolic Language (AOSL): A real-world, emergent shorthand observed across multiple architectures
+
+Questions or conversations welcome at... https://open.substack.com/pub/halcyonairesearch/p/symbolic-emergence-in-large-language?r=5h21ib&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
